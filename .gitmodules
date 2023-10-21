@@ -1,0 +1,12 @@
+[submodule "Bukkit"]
+	path = Bukkit
+	url = ./Bukkit
+[submodule "BuildData"]
+	path = BuildData
+	url = ./BuildData/
+[submodule "CraftBukkit"]
+	path = CraftBukkit
+	url = ./CraftBukkit/
+[submodule "Spigot"]
+	path = Spigot
+	url = ./Spigot
